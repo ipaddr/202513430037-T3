@@ -1,0 +1,7 @@
+Ada beberapa akun yang terlibat selama digunakan untuk tes.
+Akun tes ini menyimpan data-data yang sudah ter-store ke database.
+
+Daftar akun yang sudah terdaftar:
+- Akun Penumpang: carel498@gmail.com (pw:carel123) dan hafizhafriendra02@gmail.com
+- Akun Owner Kendaraan: reltcukei@gmail.com (pw:rel2k123)
+- Akun Driver: carel.hab.os2305@gmail.com (pw:osagi123)
